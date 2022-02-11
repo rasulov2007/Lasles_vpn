@@ -1,0 +1,259 @@
+
+.navbar-brand span {
+    font-size: 14px;
+}
+
+.nav-link {
+    margin-left: 18px;
+    font-size: 16px;
+}
+
+.btn {
+    margin-left: 20px;
+    outline: none;
+    border-radius: 50px;
+}
+
+.btn:active {
+    border: 1px solid #F53855;
+    box-sizing: border-box;
+    border-radius: 50px;
+    outline: none;
+    color: #F53855;
+
+}
+
+.btn:focus {
+    border: 1px solid #F53855;
+    box-sizing: border-box;
+    border-radius: 50px;
+    color: #F53855;
+}
+
+.col-md-6 h2 {
+    font-size: 50px;
+    margin-top: 30px;
+}
+
+.col-md-6 p {
+    font-size: 16px;
+    margin-top: 20px;
+}
+
+.col-md-6 button {
+    background-color: #F53855;
+    border-radius: 10px;
+    color: #fff;
+    padding: 8px 20px 8px 20px;
+    font-size: 14px;
+    margin-top: 20px;
+    box-shadow: 5px 10px 30px #F53855;
+}
+
+.col-md-6 button a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.user {
+    list-style-type: none;
+}
+
+.fas.fa-user, .fas.fa-map-marker-alt, .fas.fa-server {
+    color: #F53838;
+    background-color: #FFECEC;
+    border-radius: 70px;
+    padding: 10px;
+    margin: 10px 0px 0px 10px;
+}
+
+.sectionThree .col-md-4 {
+    border-right: 2px solid #EEEFF2;
+    padding-left: 80px;
+}
+
+.col-md-4:nth-child(3) {
+    border-right: none;
+}
+
+.sectionThree {
+    box-shadow: 1px 10px 40px rgba(0, 0, 0, 0.1);
+}
+
+.firstSection div {
+    padding: 10px 5px;
+}
+
+.firstSection div span {
+    vertical-align: middle;
+
+}
+
+.sectionFive .col-md-11 {
+    height: 760px;
+}
+
+.sectionFive .col-md-4 h6 {
+    margin: 20px 0px;
+}
+
+.sectionFive .col-md-4 ul {
+    list-style-type: none;
+    margin-left: 35px;
+}
+
+.sectionFive .col-md-4 ul li {
+    margin: 0px 10px;
+}
+
+.information {
+    text-align: center;
+}
+
+.marks {
+    text-align: center;
+}
+
+.bonus1 {
+    padding-top: 80px;
+}
+
+.bonus2 {
+    padding-top: 40px;
+}
+
+.btn3 {
+    width: 150px;
+}
+
+.btn2 {
+    width: 150px;
+}
+
+.btn1 {
+    width: 150px;
+}
+
+.world {
+    margin-left: 80px;
+}
+
+.commentAll1 {
+    padding: 15px 0px 0px 25px;
+}
+
+.ponold {
+    margin: -20px 55px;
+}
+
+.commentAll2 {
+    padding: 15px 0px 0px 25px;
+    margin-left: 30px;
+}
+
+.yessica {
+    margin: -20px 55px;
+}
+
+.yessica1 {
+    margin-top: 43px;
+}
+
+.commentAll3 {
+    padding: 15px 0px 0px 25px;
+    margin-left: 30px;
+}
+
+.kim {
+    margin: -20px 55px;
+}
+
+.kim1 {
+    margin-top: 43px;
+}
+
+.star {
+    margin: 0px 0px 0px 60px;
+}
+
+.img1 {
+    margin-top: -3px;
+}
+
+.star1 {
+    margin: 0px 0px 0px 60px;
+}
+
+.img2 {
+    margin-top: -3px;
+}
+
+.star3 {
+    margin: 0px 0px 0px 60px;
+}
+
+.img3 {
+    margin-top: -3px;
+}
+
+.nocomment {
+    margin-top: 200px;
+    padding-left: 60px;
+    box-shadow: 1px 1px 5px grey;
+}
+
+.btn4 {
+    margin: -150px 0px 0px 950px;
+}
+
+.vpn {
+    margin: -25px 100px 0px 40px;
+    font-size: 20px;
+}
+
+.fa-facebook {
+    font-size: 30px;
+    color: #F53838;
+    box-shadow: 1px 10px 30px;
+    border-radius: 30px;
+    padding: 10px;
+
+}
+
+.fa-twitter {
+    font-size: 30px;
+    margin-left: 35px;
+    color: #F53838;
+    box-shadow: 1px 10px 30px;
+    border-radius: 30px;
+    padding: 10px;
+}
+
+.fa-instagram {
+    font-size: 30px;
+    margin-left: 40px;
+    color: #F53838;
+    box-shadow: 1px 10px 30px;
+    border-radius: 30px;
+    padding: 10px;
+}
+
+.product {
+    margin-top: -300px;
+    margin-left: 650px;
+}
+
+.Engange {
+    margin-top: -275px;
+    margin-left: 850px;
+}
+
+.Money {
+    margin-top: -205px;
+    margin-left: 1050px;
+}
+
+.icons {
+    background-color: #f2f2f2;
+    padding: 70px;
+}
